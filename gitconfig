@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = smudgeness@gmail.com
+	name = Wayne Smart
